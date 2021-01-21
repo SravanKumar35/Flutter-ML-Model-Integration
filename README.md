@@ -1,4 +1,4 @@
-# tflite_offline
+# Flutter-ML-Model-Integration
 
 A new Flutter project.
 
